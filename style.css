@@ -1,0 +1,258 @@
+#body{
+    background-image: url(image/images/pexels-pixabay-209831.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ca{
+    background-color:rgb(90, 103, 122);
+    height: 100vh;
+    opacity: 0.7;
+    
+}
+#weather{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+/* #displ{
+    color: black;
+    font-size: 50px;
+    margin-top: 300px;
+} */
+#myTable{
+    font-size: 20px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+#myTable1{
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+#myTable2{
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+#myTable3{
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+#myTable4{
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+#myTable5{
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#myTable6{
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 50px;
+   
+}
+#myTable7{
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 50px;
+ 
+}
+#spa{
+   position: absolute;
+   left: 75%;
+   color: white;
+   font-weight: bold;
+   font-size: 10px;
+   top: 95%;
+}
+.text1{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.text2{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.text3{
+    font-size: 10vw;
+    margin-top: 300px;
+    color: white;
+    font-weight: bold;
+}
+#pan{
+    margin-left: 200px;
+}
+#fan{
+    margin-left: 150px;
+}
+#fan1{
+    margin-left: 200px;
+}
+#fan2{
+    margin-left: 250px;
+}
+#fan3{
+    margin-left: 250px;
+}
+#fan4{
+    margin-left: 250px;
+}
+#fan5{
+    margin-left: 250px;
+}
+#fan6{
+    margin-left: 200px;
+}
+
+
+
+
+@media (max-width:500px){
+    #body{
+        background-image: url(./image/sunBg.13378c1945b2be657095.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 80vw;
+    }
+    #myTable{
+        font-size: 10px;
+        color: white;
+        margin-top: 50px;
+        /* margin-left: 10px; */
+    
+    }
+    #myTable1{
+        font-size: 10px;
+        color: white;
+        margin-top: 30px;
+        /* margin-left: 10px; */
+        
+    }
+    #myTable2{
+        font-size: 10px;
+        color: white;
+        margin-top: 30px;
+        /* margin-left: 10px; */
+        
+    }
+    #myTable3{
+        font-size: 10px;
+        color: white;
+        margin-top: 30px;
+        /* margin-left: 10px; */
+        
+    }
+    #myTable4{
+        font-size: 10px;
+        color: white;
+        margin-top: 30px;
+        /* margin-left: 10px; */
+        
+    }
+    #myTable5{
+        font-size: 10px;
+        color: white;
+        margin-top: 30px;
+        /* margin-left: 10px; */
+    }
+    #myTable6{
+        font-size: 10px;
+        color: white;
+        margin-top: 30px;
+        /* margin-left: 10px; */
+       
+    }
+    #myTable7{
+        font-size: 10px;
+        color: white;
+        margin-top: 30px;
+        /* margin-left: 10px; */
+     
+    }
+    #spa{
+        position: absolute;
+        left: 5%;
+        color: white;
+        font-weight: bold;
+        font-size: 6px;
+        top: 100%;
+     }
+     .text1{
+         font-size: 20px;
+         color: white;
+         font-weight: bold;
+         margin-left: 30px;
+         margin-top: 100px;
+         display: none;
+     }
+     .text2{
+         font-size: 20px;
+         color: white;
+         font-weight: bold;
+         display: none;
+     }
+     .text3{
+         font-size: 10vw;
+         margin-top: 300px;
+         color: white;
+         font-weight: bold;
+         display: none;
+     }
+     
+    #pan{
+        margin-left: 50px;
+    }
+    #fan{
+        margin-left: 50px;
+    }
+    #fan1{
+        margin-left: 50px;
+    }
+    #fan2{
+        margin-left: 50px;
+    }
+    #fan3{
+        margin-left: 50px;
+    }
+    #fan4{
+        margin-left: 50px;
+    }
+    #fan5{
+        margin-left: 50px;
+    }
+    #fan6{
+        margin-left: 50px;
+    }
+    #ca{
+        background-color:rgb(90, 103, 122);
+        height: 100vh;
+        opacity: 0.7;
+        width: 70vw;
+        
+    }
+    #aa{
+        width: 80px;
+    }
+}
